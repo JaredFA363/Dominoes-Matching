@@ -1,0 +1,7 @@
+﻿  BoostTesting.cpp
+C:\Users\jared\OneDrive\Documents\YEAR3\AdvSoftEng\ASEDomioes\ASEDomino_Worst\BoostTesting.cpp(19,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jared\OneDrive\Documents\YEAR3\AdvSoftEng\ASEDomioes\ASEDomino_Worst\BoostTesting.cpp(52,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jared\OneDrive\Documents\YEAR3\AdvSoftEng\ASEDomioes\ASEDomino_Worst\BoostTesting.cpp(85,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jared\OneDrive\Documents\YEAR3\AdvSoftEng\ASEDomioes\ASEDomino_Worst\BoostTesting.cpp(118,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jared\OneDrive\Documents\YEAR3\AdvSoftEng\ASEDomioes\ASEDomino_Worst\BoostTesting.cpp(150,23): warning C4018: '<': signed/unsigned mismatch
+  ASEDomino_Worst.vcxproj -> C:\Users\jared\OneDrive\Documents\YEAR3\AdvSoftEng\ASEDomioes\Debug\ASEDomino_Worst.exe
